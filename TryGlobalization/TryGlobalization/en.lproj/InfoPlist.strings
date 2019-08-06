@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  TryGlobalization
+
+  Created by 张毅成 on 2019/8/6.
+  Copyright © 2019 张毅成. All rights reserved.
+*/
+
+CFBundleDisplayName = "Localizable App Name";
